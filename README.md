@@ -1,2 +1,2 @@
-# arlind.mini
+# arlind.emini
 my portfolio
